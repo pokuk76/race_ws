@@ -1,3 +1,18 @@
 [submodule "src/particle_filter"]
 	path = src/particle_filter
 	url = https://github.com/f1tenth/particle_filter.git
+[submodule "src/ros2-pid"]
+	path = src/ros2-pid
+	url = https://github.com/f1tenth/ros2-pid
+[submodule "src/ackermann_mux"]
+	path = src/ackermann_mux
+	url = https://github.com/f1tenth/ackermann_mux
+[submodule "src/transport_drivers"]
+	path = src/transport_drivers
+	url = https://github.com/ros-drivers/transport_drivers
+[submodule "src/vesc"]
+	path = src/vesc
+	url = https://github.com/f1tenth/vesc
+[submodule "src/av-stack"]
+	path = src/av-stack
+	url = https://github.com/pokuk76/f1tenth3-av-stack.git
